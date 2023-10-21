@@ -86,6 +86,7 @@ plt.savefig('ROE.png')  # Salvar o gráfico como um arquivo PNG
 plt.show()
 ```
 E tivemos os gráficos:
+```
 ![grafico_roe]("C:\Users\Pichau\Desktop\Ciencia_de_dados\Pipeline\ROE.png")
 
 ![grafico_roic]()
