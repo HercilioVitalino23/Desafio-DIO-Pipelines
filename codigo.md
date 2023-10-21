@@ -86,13 +86,13 @@ plt.savefig('ROE.png')  # Salvar o gráfico como um arquivo PNG
 plt.show()
 ```
 E tivemos os gráficos:
-```
-![grafico_roe]("C:\Users\Pichau\Desktop\Ciencia_de_dados\Pipeline\ROE.png")
 
-![grafico_roic]()
+![grafico_roe](["C:\Users\Pichau\Desktop\Ciencia_de_dados\Pipeline\ROE.png](https://github.com/HercilioVitalino23/Desafio-DIO-Pipelines/edit/main/codigo.md)")
 
-![grafico_Cresc_Rec_5a]()
-```
+![grafico_roic](https://github.com/HercilioVitalino23/Desafio-DIO-Pipelines/edit/main/codigo.md)
+
+![grafico_Cresc_Rec_5a](https://github.com/HercilioVitalino23/Desafio-DIO-Pipelines/edit/main/codigo.md)
+
 
 Subi os arquivos no meu drive:
 
