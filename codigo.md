@@ -86,7 +86,22 @@ plt.savefig('ROE.png')  # Salvar o gráfico como um arquivo PNG
 plt.show()
 ```
 
-Subi os arquivos no meu drive:
+Subi os arquivos no meu drive. 
+
+Configuração Inicial:
+
+Certifique-se de que você tenha uma conta de serviço (Service Account) no Console de Desenvolvedor do Google e que você tenha baixado o arquivo JSON de credenciais para essa conta de serviço.
+
+Verifique se a conta de serviço tem permissão para acessar o Google Drive e faça as configurações necessárias no painel de controle do Google Drive para compartilhar pastas ou arquivos com a conta de serviço.
+
+Instale as Bibliotecas:
+
+Você precisará instalar as bibliotecas google-auth e google-auth-httplib2 para autenticar a conta de serviço, bem como a biblioteca google-api-python-client para interagir com a API do Google Drive. Use o seguinte comando para instalar essas bibliotecas:
+
+```
+pip install --upgrade google-auth google-auth-httplib2 google-api-python-client
+```
+Agora você pode escrever um código Python para fazer o upload de arquivos para o Google Drive:
 
 ```
 import os
