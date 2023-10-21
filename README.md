@@ -18,3 +18,11 @@ Salvei o resultado em *.csv*, e e usei a biblioteca matplotlib, para gerar gráf
 Por fim subi os arquivos no drive.
 
 Podemos ainda subistituir por outras planilhas (maiores inclusive) e utilizar outros parâmetros. Mas utilizei esta como modelo para exemplificar.
+
+## Linguagens de programação utilizadas:
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
+## Ferramentas utilizadas
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git&logoColor=%23F05032)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-000?style=for-the-badge&logo=Google%20Colab&logoColor=%23F9AB00)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000?style=for-the-badge&logo=Google%20Cloud&logoColor=%234285F4)
